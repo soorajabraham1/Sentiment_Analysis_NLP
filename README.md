@@ -4,7 +4,7 @@ The sentiment related to a name or object is analysed.
 * [General info](#general-info)
 * [Libraries used](#Libraries-used)
 * [Things done](#Things-done)
-* [Result](#Result)
+
 
 ### General info
 Sentiment analysis is a natural language processing technique used to determine whether data is positive, negative or neutral. 
@@ -39,5 +39,5 @@ It is the process of converting a word to its base form. for example the word be
 stop words are the words that donot add much value to sentences.They can be safely ignored without sacrifacing the meaning of the sentence. eg: the, he, she.
 using the library textblob we can obtain the polarity from the function sentiment. Polarity is the expressionthat determine the sentimental aspect of an opinion. it can be positive negative or neutral. polarity lies between -1 to +1.
 
-### Result
+
 
