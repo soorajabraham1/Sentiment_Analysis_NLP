@@ -2,8 +2,8 @@
 The sentiment related to a name or object is analysed.
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Libraries used](#Libraries used)
+* [Things done](#Things done)
 * [Status](#status)
 
 ### General info
@@ -16,26 +16,22 @@ Sentiment analysis basically studies the subjective information in an expression
 * Nltk and textblob for text analysis.
 * Re for regular expressions and,
 * Tweepy for extracting tweets from Twitter API.
-### Setup
+### Things done
+* About scraping data from social media websites.
+* The tweepy library for extracting tweets from twitter API.
+* About the nltk and textblob libraries.
+* How regular expressions are used in text analysis.
+* How to clean the textual data.
+* What sentiment analysis is and how to find the sentiment of any text data.
+
 ### Status
 
 
 
-Things done
-
-About scraping data from social media websites.
-The tweepy library for extracting tweets from twitter API.
-About the nltk and textblob libraries.
-How regular expressions are used in text analysis.
-How to clean the textual data.
-What sentiment analysis is and how to find the sentiment of any text data.
 
 
-Pandas for dataframe manipulations.
-Matplotlib for data visualization.
-Nltk and textblob for text analysis.
-Re for regular expressions and,
-Tweepy for extracting tweets from Twitter API.
+
+
 
 Tweepy is a python library for accessing the Twitter API. 
 It is great for simple automation and creating twitter bots.
