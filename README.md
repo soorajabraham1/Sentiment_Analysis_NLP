@@ -1,6 +1,10 @@
 # Sentiment_Analysis_NLP
 The sentiment related to a name or object is analysed.
 ## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Status](#status)
 
 ### General info
 ### Technologies
