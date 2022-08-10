@@ -2,8 +2,8 @@
 The sentiment related to a name or object is analysed.
 ## Table of contents
 * [General info](#general-info)
-* [Libraries used](#Libraries used)
-* [Things done](#Things done)
+* [Libraries used](#Libraries-used)
+* [Things done](#Things-done)
 * [Status](#status)
 
 ### General info
