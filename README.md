@@ -14,14 +14,20 @@ Sentiment analysis basically studies the subjective information in an expression
 * Pandas for dataframe manipulations.
 * Matplotlib for data visualization.
 * Nltk and textblob for text analysis.
-* Re for regular expressions and,
+* Re for regular expressions
 * Tweepy for extracting tweets from Twitter API.
 ### Things done
-* About scraping data from social media websites.
+* scraping data from social media websites.
+After creating a twitter developer account, we should obtain the credentials
 * The tweepy library for extracting tweets from twitter API.
+* tweepy woyuld authorise whether we have the right API.After extaracting the tweets the tweets are converted to text and changed to dataframe
+
+
 * About the nltk and textblob libraries.
 * How regular expressions are used in text analysis.
 * How to clean the textual data.
+
+we use the regularexpressions which is very important for the tex
 * What sentiment analysis is and how to find the sentiment of any text data.
 
 ### Status
