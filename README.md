@@ -7,13 +7,19 @@ The sentiment related to a name or object is analysed.
 * [Status](#status)
 
 ### General info
-### Technologies
-### Setup
-### Status
-
 Sentiment analysis is a natural language processing technique used to determine whether data is positive, negative or neutral. 
 
 Sentiment analysis basically studies the subjective information in an expression, that is, the opinions, emotions, appraisals, or attitude towards a topic, person or entity. 
+### Libraries used
+*Pandas for dataframe manipulations.
+*Matplotlib for data visualization.
+*Nltk and textblob for text analysis.
+*Re for regular expressions and,
+*Tweepy for extracting tweets from Twitter API.
+### Setup
+### Status
+
+
 
 Things done
 
@@ -24,7 +30,7 @@ How regular expressions are used in text analysis.
 How to clean the textual data.
 What sentiment analysis is and how to find the sentiment of any text data.
 
-Libraries used
+
 Pandas for dataframe manipulations.
 Matplotlib for data visualization.
 Nltk and textblob for text analysis.
