@@ -2,6 +2,11 @@
 The sentiment related to a name or object is analysed.
 ## Table of contents
 
+### General info
+### Technologies
+### Setup
+### Status
+
 Sentiment analysis is a natural language processing technique used to determine whether data is positive, negative or neutral. 
 
 Sentiment analysis basically studies the subjective information in an expression, that is, the opinions, emotions, appraisals, or attitude towards a topic, person or entity. 
