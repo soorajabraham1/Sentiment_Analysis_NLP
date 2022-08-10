@@ -30,12 +30,12 @@ we use the regularexpressions which is very important for the text analysis.
 
 we use replace the nonalphabet charactewrs and replaqce them with space. Next the numbers are removed from the text. Then all the words are converted to lower case.
 * Lemmatization
-* 
+
 It is the process of converting a word to its base form. for example the word better is converted to good which is its base form.
 
 
 * Removing stop words
-* 
+
 stop words are the words that donot add much value to sentences.They can be safely ignored without sacrifacing the meaning of the sentence. eg: the, he, she.
 using the library textblob we can obtain the polarity from the function sentiment. Polarity is the expressionthat determine the sentimental aspect of an opinion. it can be positive negative or neutral. polarity lies between -1 to +1.
 
