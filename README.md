@@ -11,11 +11,11 @@ Sentiment analysis is a natural language processing technique used to determine 
 
 Sentiment analysis basically studies the subjective information in an expression, that is, the opinions, emotions, appraisals, or attitude towards a topic, person or entity. 
 ### Libraries used
-*Pandas for dataframe manipulations.
-*Matplotlib for data visualization.
-*Nltk and textblob for text analysis.
-*Re for regular expressions and,
-*Tweepy for extracting tweets from Twitter API.
+* Pandas for dataframe manipulations.
+* Matplotlib for data visualization.
+* Nltk and textblob for text analysis.
+* Re for regular expressions and,
+* Tweepy for extracting tweets from Twitter API.
 ### Setup
 ### Status
 
